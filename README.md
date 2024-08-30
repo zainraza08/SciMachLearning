@@ -1,2 +1,5 @@
 # SciMachLearning
-Scientific Machine Learning
+Scientific Machine Learning repository featuring three different projects completed using the concepts of Scientific Machine Learning 
+1. The first project concerns studying the trends in Austin Hosuing Market before and after the pandemic. The kernalized local linear regression method was used to study the patterns in the data and identify trends of prices. More information about the KLLR method can be found here: https://github.com/afarahi/kllr
+2. The second project studies the American Household survey and applies machine learning methods to predict ownership of house in different income levels among groups of distinct marital status, age and race. The main purpose of this project is to study the decision fairness and threshold using different utility functions. It is important to recognize the differences in racial groups and how classification thresholds cannot be generalized for all the groups within a dataset.
+3. The third project deals with parametric modelling using JAX. The DiffMAH model found here https://arxiv.org/abs/2105.05859 was used to study the assembly of individual and groups of dark matter halos.  
